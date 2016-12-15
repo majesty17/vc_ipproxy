@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IPProxy", "IPProxy\IPProxy.vcproj", "{E8D5DB0D-16B3-4625-97DA-267F4BB63D1D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WatchCS", "WatchCS\WatchCS.vcproj", "{AE49F5D5-ACE2-4050-BBD9-90842E62F159}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8D5DB0D-16B3-4625-97DA-267F4BB63D1D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E8D5DB0D-16B3-4625-97DA-267F4BB63D1D}.Debug|Win32.Build.0 = Debug|Win32
+		{E8D5DB0D-16B3-4625-97DA-267F4BB63D1D}.Release|Win32.ActiveCfg = Release|Win32
+		{E8D5DB0D-16B3-4625-97DA-267F4BB63D1D}.Release|Win32.Build.0 = Release|Win32
+		{AE49F5D5-ACE2-4050-BBD9-90842E62F159}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AE49F5D5-ACE2-4050-BBD9-90842E62F159}.Debug|Win32.Build.0 = Debug|Win32
+		{AE49F5D5-ACE2-4050-BBD9-90842E62F159}.Release|Win32.ActiveCfg = Release|Win32
+		{AE49F5D5-ACE2-4050-BBD9-90842E62F159}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
